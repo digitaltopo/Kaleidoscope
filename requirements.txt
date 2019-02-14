@@ -1,3 +1,0 @@
-
-pillow
-https://github.com/sightmachine/SimpleCV/zipball/master
