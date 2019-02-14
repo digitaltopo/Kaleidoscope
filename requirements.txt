@@ -2,6 +2,6 @@ numpy
 scipy
 ipython
 svgwrite
-pygame==1.9.1release
+pygame
 pillow
 https://github.com/sightmachine/SimpleCV/zipball/master
