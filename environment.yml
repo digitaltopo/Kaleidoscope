@@ -4,6 +4,6 @@ channels:
 - conda-forge
 dependencies:
 - python=2.7.13
-- pip
+- pip:
   - https://github.com/sightmachine/SimpleCV/zipball/master
 - pillow
