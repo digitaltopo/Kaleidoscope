@@ -4,5 +4,4 @@ channels:
 - conda-forge
 dependencies:
 - python=2.7.13
-- pillow
-- SimpleCV
+- pip
