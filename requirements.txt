@@ -1,2 +1,7 @@
+numpy
+scipy
+ipython
+svgwrite
+pygame
 pillow
-simplecv
+https://github.com/sightmachine/SimpleCV/zipball/master
