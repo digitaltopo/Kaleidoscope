@@ -1,2 +1,2 @@
 pillow
-https://github.com/sightmachine/SimpleCV/zipball/develop
+https://github.com/sightmachine/SimpleCV/zipball/master
